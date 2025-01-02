@@ -63,6 +63,7 @@ Esta vez, **CSS** fue omitido para generar todos los estilos en **React** y **Bo
 ├── package-lock.json     
 ├── README.md           
 └── vite.config.js           
+```
 
 ## Instrucciones para Visualizar el Proyecto
 
